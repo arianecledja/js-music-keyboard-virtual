@@ -13,9 +13,10 @@ Com versão mobile:
 </p>
 
 ## Tecnologias utilizadas
-HTML
-CSS
-JavaScript
+
+- HTML
+- CSS
+- JavaScript
 
 ## Para tocar
 
