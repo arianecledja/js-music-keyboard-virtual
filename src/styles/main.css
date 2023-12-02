@@ -170,7 +170,6 @@ header .column span {
 }
 
 @media all and (orientation:portrait) {
-  /* Styles for Portrait screen */
   .container {
     transform: rotate(90deg);
   }
